@@ -1,6 +1,6 @@
 ### OLÁ !! Eu sou Júlio Cesar  👊🏿
 
-- Junior em <h1>html, css e JavaScript</h1> 
+- Junior em html, css e JavaScript
 - meu foco agora é front-end.
 - to em um projeto na recode pro
 - 😄 ele/dele: ...
