@@ -2,7 +2,6 @@
 
 - Junior em html, css e JavaScript
 - meu foco agora é front-end.
-- to em um projeto na recode pro
 - 😄 ele/dele: ...
 -->
 
