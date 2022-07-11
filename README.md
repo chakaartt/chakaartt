@@ -2,6 +2,7 @@
 
 - Junior em html, css e JavaScript
 - meu foco agora é front-end.
+- aluno da recode pro 2022
 - 😄 ele/dele: ...
 -->
 
