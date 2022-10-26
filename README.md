@@ -1,8 +1,8 @@
 ### OLÁ !! Eu sou Júlio Cesar  👊🏿
 
 - Junior em html, css e JavaScript
-- meu foco agora é front-end.
-- aluno da recode pro 2022
+- Meu foco fullstack.
+- Aluno da recode pro 2022
 - 😄 ele/dele: ...
 -->
 
