@@ -1,6 +1,6 @@
 ### OLÁ !! Eu sou Júlio Cesar  👊🏿
 
-- Junior em html, css e JavaScript
+- Jr em html, css e JavaScript
 - Meu foco fullstack.
 - Aluno da recode pro 2022
 - 😄 ele/dele: ...
